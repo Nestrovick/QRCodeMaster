@@ -1,6 +1,9 @@
 ![image](https://github.com/user-attachments/assets/e261db16-ecfd-4647-9b7b-37845fa19125)
 
 
+https://nestrovick.github.io/QRCodeMaster/
+
+
 # QRCodeMaster
 
 Este projeto é uma aplicação web que gera QR Codes para diferentes tipos de dados, como endereços web, informações de contato (V-Card), redes Wi-Fi, contatos do WhatsApp, e eventos. Os usuários podem personalizar a geração dos QR Codes escolhendo o nível de correção de erro e as cores.
