@@ -20,7 +20,6 @@ Desenvolvido uma aplicação web para a Confederação Nacional do Transporte, o
 - **Personalização do QR Code**:
   - Escolha do nível de correção de erro (L, M, Q, H)
   - Seleção de cores para o QR Code e o fundo
-- **Pré-visualização e download do QR Code**
 
 ## Estrutura do Projeto
 
